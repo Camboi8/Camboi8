@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Camboi8
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning more Java
-- 💞️ I’m looking to collaborate with BCR
+- 🌱 I’m currently learning more Java, JS, and C#
+- 💞️ I’m looking to collaborate with BCR and anyone who makes games
 - 📫 Reach me via email @ cameron.s.murray57@gmail.com
 
 <!---
